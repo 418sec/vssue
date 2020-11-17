@@ -1,5 +1,10 @@
 {
+  "name": "vssue-github-api",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/418sec/vssue.git"
+  },
   "workspaces": [
     "packages/@vssue/*",
     "packages/vssue",
