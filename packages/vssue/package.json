@@ -9,11 +9,11 @@
   ],
   "homepage": "https://vssue.js.org",
   "bugs": {
-    "url": "https://github.com/meteorlxy/vssue/issues"
+    "url": "https://github.com/418sec/vssue/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meteorlxy/vssue.git"
+    "url": "git+https://github.com/418sec/vssue.git"
   },
   "license": "MIT",
   "author": "meteorlxy <meteor.lxy@foxmail.com>",
