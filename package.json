@@ -1,5 +1,6 @@
 {
   "name": "vssue",
+  "version": "1.4.6",
   "private": true,
   "repository": {
     "type": "git",
